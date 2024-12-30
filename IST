@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to IST University</title>
+  </head>
+  <body>
+    <h1>Welcome to IST University</h1>
+    <p><strong>IST stands for Institute of Space Technology.</strong> It is one of the best universities in Pakistan. It offers a number of programs in different fields and is located in Islamabad.</p>
+    
+    <img src="th.jpeg" alt="Institute of Space Technology Image 1">
+    <img src="th (1).jpeg" alt="Institute of Space Technology Image 2">
+    <img src="th (2).jpeg" alt="Institute of Space Technology Image 3">
+    
+    <h2>About the University</h2>
+    <ul>
+      <li>Located in Pakistan.</li>
+      <li>Best in Aeronautical Engineering and Information Processing facilities.</li>
+      <li>One of the best faculties and lab systems in IST.</li>
+    </ul>
+    
+    <h3>University Departments</h3>
+    <ul>
+      <li>Aeronautical Engineering</li>
+      <li>Computer Science</li>
+      <li>Electrical Engineering</li>
+      <li>Mechanical Engineering</li>
+      <li>Avionics Engineering</li>
+    </ul>
+
+    <p>Here is a quote from the IST website:</p>
+    <blockquote cite="https://www.ist.edu.pk/index.html">
+      "We are here for defining students' futures. Our university has one of the best faculty and labs with great architecture. We also offer students a good social life experience. There are many opportunities for students at IST, and we have a strong alumni network."
+    </blockquote>
+
+    <br>
+    <a href="https://www.ist.edu.pk/">Institute of Space Technology Website</a>
+  </body>
+</html>
